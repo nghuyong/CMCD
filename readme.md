@@ -2,7 +2,7 @@
 
 
 ## Instruction
-<img src="./.github/dataset.png" width = "90%" height = "90%" alt="图片名称" align=center />
+<img src="./.github/dataset.png" width = "98%" height = "98%" alt="图片名称" align=center />
 The Cross-Modal Classification Dataset (CMCD) is a large-scale dataset constructed from Weibo, 
 which consists of 85,860 tweets from 18 general categories, and all of them have been manually labelled and adversarial filtered. 
 Tweets in the dataset has three modalities of text, image and video, and 64.4% of tweets contain images and 16.2% of tweets contain videos. 
