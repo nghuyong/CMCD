@@ -14,4 +14,23 @@ To respect the privacy of personal information of the original source, we cannot
 If you want to acquire the corpus, please fill the [application form](./.github/CMCD_Application_Form.pdf) and send to Yong Hu (huyong@bit.edu.cn) 
 
 ## Citation
-To Be Come
+```
+@InProceedings{10.1007/978-3-030-60450-9_55,
+author="Hu, Yong
+and Huang, Heyan
+and Chen, Anfan
+and Mao, Xian-Ling",
+editor="Zhu, Xiaodan
+and Zhang, Min
+and Hong, Yu
+and He, Ruifang",
+title="A Cross-Modal Classification Dataset on Social Network",
+booktitle="Natural Language Processing and Chinese Computing",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="697--709",
+isbn="978-3-030-60450-9"
+}
+
+```
